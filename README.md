@@ -2,6 +2,8 @@
 
 A fully interactive multi-page website built with pure HTML, CSS & JavaScript. No frameworks, no libraries, no dependencies — just clean front-end code.
 
+TO preview: DOWNLOAD THE MOGA-WEBSITE.HTML AND OPEN IT IN YOUR DESIRED BROWSER. 
+
 ## Pages
 - Home
 - Services
